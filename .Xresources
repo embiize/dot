@@ -1,0 +1,38 @@
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+
+*background :      #252525
+*foreground :      #bdc3c7
+
+! Black
+*color0:           #2B2B2B
+*color8:           #252525
+! Red
+*color1:           #FF0033
+*color9:           #C0392B
+! Green
+*color2:           #2ecc71
+*color10:          #27ae60
+! Yellow
+*color3:           #f1c40f
+*color11:          #f39c12
+! Blue
+*color4:           #3498db
+*color12:          #2980b9
+! Magenta
+*color5:           #9b59b6
+*color13:          #8e44ad
+! Cyan
+*color6:           #1abc9c
+*color14:          #16a085
+! White
+*color7:           #ecf0f1
+*color15:          #bdc3c7
+
+URxvt*geometry:         83x23
+URxvt*font: xft:PragmataPro for Powerline:size=8
+URxvt*boldFont: xft:PragmataPro for Powerline:size=8
+URxvt*urlLauncher:         chrome
+URxvt*scrollBar:        false
+URxvt.iconFile: /usr/share/icons/Flattr/apps/scalable/utilities-terminal.svg
