@@ -1,4 +1,4 @@
-HakaseFal dot 
+HakaseFal dotfiles
 =============
 
 ### My Screens
