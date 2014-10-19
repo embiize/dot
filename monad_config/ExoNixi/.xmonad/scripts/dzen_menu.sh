@@ -2,7 +2,7 @@
 Nama1="Browser"
 Exec1="chrome"
 Nama2="File Manager"
-Exec2="pcmanfm"
+Exec2="spacefm"
 Nama3="Image Editor"
 Exec3="gimp"
 Nama4="Text Editor"
