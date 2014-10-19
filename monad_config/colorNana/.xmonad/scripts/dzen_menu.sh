@@ -24,4 +24,4 @@ IconTitle="/home/crucia/.xmonad/icons/menu.xbm"
 \n^ca(1,$Exec4)^r(0)  $Nama4 ^pa(117)^r(0)^ca()\
 \n^ca(1,$Exec5)^r(0)  $Nama5 ^pa(117)^r(0)^ca()\
 \n^ca(1,$Exec6)^r(0)  $Nama6 ^pa(117)^r(0)^ca()")\
-| dzen2 -y "$Y" -fn "$Font" -bg "$BG" -fg "$FG" -l 6 -tw 60 -ta l -w 120 -h 20 -m -p -e 'entertitle=uncollapse,grabkeys;enterslave=grabkeys;leaveslave=collapse,ungrabkeys;button1=;button2=togglestick;button3=exit:13;button4=scrollup;button5=scrolldown;key_Escape=ungrabkeys,exit'
+| dzen2 -y "$Y" -fn "$Font" -bg "$BG" -fg "$FG" -l 6 -tw 60 -ta l -w 120 -h 20 -m -p -e 'entertitle=;enterslave=grabkeys;leaveslave=collapse,ungrabkeys;button1=uncollapse,grabkeys;button2=togglestick;button3=;button4=scrollup;button5=scrolldown;key_Escape=ungrabkeys'
