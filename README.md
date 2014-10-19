@@ -2,8 +2,8 @@ HakaseFal dotfiles
 =============
 
 ### My Screens
-**Monad** : colorNana
+**xMonad** : colorNana
 ![colorNana Screenshot](https://raw.githubusercontent.com/HakaseFal/dot/master/monad_config/Screens/colorNana.png)
 
-**Monad** : ExoNixi
+**xMonad** : ExoNixi
 ![ExoNixi Screenshot](https://raw.githubusercontent.com/HakaseFal/dot/master/monad_config/Screens/ExoNixi.jpg)
