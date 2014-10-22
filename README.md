@@ -7,3 +7,6 @@ HakaseFal dotfiles
 
 **xMonad** : ExoNixi
 ![ExoNixi Screenshot](https://raw.githubusercontent.com/HakaseFal/dot/master/monad_config/Screens/ExoNixi.jpg)
+
+**xMonad** : kuromeBlood
+![kuromeBlood Screenshot](https://raw.githubusercontent.com/HakaseFal/dot/master/monad_config/Screens/kuromeBlood.png)
