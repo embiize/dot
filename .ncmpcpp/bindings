@@ -1,0 +1,4 @@
+def_key "f2"
+	show_visualizer
+	toggle_screen_lock
+	show_playlist
